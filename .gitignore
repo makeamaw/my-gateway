@@ -3,3 +3,5 @@
 *.db
 .lock
 state.txt
+update.bat
+update.ps1
