@@ -1,0 +1,5 @@
+﻿cf.log
+*.log
+*.db
+.lock
+state.txt
